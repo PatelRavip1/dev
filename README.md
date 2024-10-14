@@ -1,1 +1,1 @@
-[# rv.dev](https://patelravip1.github.io/dev/)
+[# rv.dev](https://patelravip1.github.io/web/)
