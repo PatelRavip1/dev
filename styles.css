@@ -1,0 +1,8 @@
+body {
+    background-color: #181a1f;
+    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Segoe UI", "Helvetica Neue", Helvetica, Cantarell, Ubuntu, Roboto, Noto, Arial, sans-serif;
+    font-size: 80%;
+    /* Adjusted to a round number for better scalability */
+    color: #ffffff;
+    /* Consider adding this for text readability on dark background */
+}
